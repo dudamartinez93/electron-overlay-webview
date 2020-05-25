@@ -1,0 +1,12 @@
+{
+  "name": "electron-overlay-webview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
